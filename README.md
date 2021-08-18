@@ -15,4 +15,7 @@
 - I can't program, but I'm trying to make my own androidos build.
 
 It's something that anyone can do if they work hard enough.
+
+I will do something this year too. I'm looking for a place that needs me.
+
 ```
