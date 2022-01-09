@@ -1,5 +1,5 @@
 ```
-# Narcissus Flower　ナルキソスの花です。
+# Narcissus Flower　Dom0から生まれた、ナルキソスの花です。
 ```
 ##
 ```
